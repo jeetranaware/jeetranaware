@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **Jarvis chatbot using Javascript**
 
-- 👨‍💻 All of my projects are available at [https://vishwajeetranaware.netlify.app/](https://vishwajeetranaware.netlify.app/)
-
 - 📫 How to reach me **vishwajeetranaware105@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vishwajeetranaware/](https://www.linkedin.com/in/vishwajeetranaware/)
